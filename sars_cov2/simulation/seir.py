@@ -1,6 +1,6 @@
 from numpy import array as vector
 
-from sars_cov2.math.solver import euler_method
+from sars_cov2.utils.solver import euler_method
 from sars_cov2.model.seir import seir_model
 
 
