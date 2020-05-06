@@ -1,4 +1,4 @@
-def euler_method(f, t0, x0,t1, h):
+def euler_method(f, t0, x0, t1, h):
     """Explicit Euler method."""
     t = t0
     x = x0
